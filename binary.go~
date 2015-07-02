@@ -1,0 +1,4 @@
+package binary_chop
+func Chop(number int, numbers []int) int {
+     return -1;
+}
